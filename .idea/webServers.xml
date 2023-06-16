@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="74a6e859-f290-4a24-8a6b-fe1b0dd225af" name="odev" url="http://localhost/SchoolProject">
+        <fileTransfer mountedRoot="C:\wamp64\www\SchoolProject" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
